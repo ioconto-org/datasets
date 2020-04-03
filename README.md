@@ -19,4 +19,4 @@ I dati elaborati sono disponibili in https://github.com/ioconto/covid19/tree/mas
 ## Sorgenti
 Le sorgenti dei dati che utilizziamo per le nostre elaborazioni sono disponibili in https://github.com/ioconto/covid19/tree/master/sources
 
-Il loro elenco è specificato qui: https://github.com/ioconto/covid19/tree/master/sources/sources.json
+Il loro elenco è specificato qui: https://github.com/ioconto-org/datasets/tree/master/sources/sources.json
